@@ -18,7 +18,7 @@ class Sum {
 	  sum = sum + tall;
 	  }
        }
-    System.out.println("Ferdig " + sum + "\n");
+    System.out.println("Ferdig " + sum);
    }
 }
 
